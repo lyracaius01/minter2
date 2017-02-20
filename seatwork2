@@ -1,0 +1,10 @@
+Step 1: Start
+Step 2: Declare variables name, hourly rate salary, deduction rate, gross rate, deduction, gross pay, net pay, hours worked
+Step 3: Input variables for name, Hourly Rate Salary, Deduction Rate
+Step 4: Multiply hourly rate salary & hours worked
+Step 5: Assign the result to Gross Rate
+Step 6: Multiply gross pay & deduction rate
+Step 7: Assign the result to Deduction
+Step 8: Subtract Gross Pay & deduction
+Step 9: Assign the result to Net Pay
+Step 10: Display Name, Gross Rate, Deduction, & Net Pay
