@@ -1,0 +1,12 @@
+Step 1: Start 
+Step 2: Declare variable studentGrade
+Step 3: Input variable for studentGrade
+Step 4: if variables 97-100, display 4.0
+Step 5: if variables 93-96, display 3.5
+Step 6: if variables 89-92, display 3.0
+Step 7: if variables 85-88, display 2.5
+Step 8: if variables 80-84, display 2.0
+Step 9: if variables 75-79, display 1.5
+Step 10: if variables 70-74, display 1.0
+Step 11: if variables below 70, display 0
+Step 12: End
