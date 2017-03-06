@@ -1,0 +1,20 @@
+var studentGrade = prompt("Please enter your grade");
+if (studentGrade >= "97") {
+    document.getElementById("demo").innerHTML = "4.0"; 
+}else if (studentGrade >= "93") {
+    document.getElementById("demo").innerHTML = "3.5"; 
+}else if (studentGrade >= "89") {
+    document.getElementById("demo").innerHTML = "3.0"; 
+}else if (studentGrade >= "85") {
+    document.getElementById("demo").innerHTML = "2.5"; 
+}else if (studentGrade >= "80") {
+    document.getElementById("demo").innerHTML = "2.0"; 
+}else if (studentGrade >= "75") {
+    document.getElementById("demo").innerHTML = "1.5";
+}else if (studentGrade >= "70") {
+    document.getElementById("demo").innerHTML = "1.0"; 
+}else if (studentGrade <= "70") {
+    document.getElementById("demo").innerHTML = "0";
+}else {
+
+    }
